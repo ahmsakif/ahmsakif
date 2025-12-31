@@ -19,6 +19,14 @@ Always eager to learn and improve my skills.
 - 🛠️ Building portfolio-ready projects
 
 ---
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmsakif&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmsakif&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmsakif&theme=tokyonight&hide_border=true" alt="streak graph" />
+</div>
 
 ## 🛠️ Skills
 
