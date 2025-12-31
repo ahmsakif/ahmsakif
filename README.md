@@ -24,11 +24,19 @@ Always eager to learn and improve my skills.
 
 ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ahmsakif&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmsakif&theme=tokyonight" alt="GitHub Profile Details" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmsakif&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmsakif&theme=tokyonight" alt="Languages Used" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmsakif&theme=tokyonight" alt="Productive Time" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmsakif&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmsakif&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
 
 ## 🛠️ Skills
 
