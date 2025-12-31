@@ -16,6 +16,8 @@ Always eager to learn and improve my skills.
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js**
 - 📚 Practicing JavaScript & React
+- 🏢 Currently working on **AssetVerse** (My latest major project).
+- 🎨 Refining my skills in **UI Design and Logo Creation**.
 - 🛠️ Building portfolio-ready projects
 
 ---
