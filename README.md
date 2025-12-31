@@ -15,7 +15,6 @@ Always eager to learn and improve my skills.
 
 ## 🚀 Current Activities
 - 🌱 Exploring **Next.js**
-- 🏗️ Working on a **tourism website**
 - 📚 Practicing JavaScript & React
 - 🛠️ Building portfolio-ready projects
 
@@ -35,16 +34,12 @@ Always eager to learn and improve my skills.
 ---
 
 ## 🌐 Connect With Me
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: yourname@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/ahmsakif
+- 📧 Email: ahmed.sakif225@gmail.com
 
 ---
 
-## 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmsakif&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmsakif&layout=compact&theme=tokyonight" />
-</p>
+
 
 <p>
   <img src="https://streak-stats.demolab.com?user=ahmsakif&theme=tokyonight" />
