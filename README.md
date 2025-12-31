@@ -48,9 +48,3 @@ Always eager to learn and improve my skills.
 - 📧 Email: ahmed.sakif225@gmail.com
 
 ---
-
-
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=ahmsakif&theme=tokyonight" />
-</p>
