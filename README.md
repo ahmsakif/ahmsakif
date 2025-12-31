@@ -1,16 +1,51 @@
-## Hi there 👋
+![Banner](https://i.ibb.co.com/rfZ4hWJR/banner-sakif-01.jpg)
 
-<!--
-**ahmsakif/ahmsakif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sakif Ahmed
+### 💻 Web Developer | Frontend-Focused
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+I am a passionate Web Developer with a strong foundation in JavaScript and React.  
+Currently pursuing a BSc in Statistics and building real-world web applications.  
+I enjoy creating clean, user-friendly, and functional web solutions.  
+Always eager to learn and improve my skills.
+
+---
+
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js**
+- 🏗️ Working on a **tourism website**
+- 📚 Practicing JavaScript & React
+- 🛠️ Building portfolio-ready projects
+
+---
+
+## 🛠️ Skills
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+---
+
+## 🌐 Connect With Me
+- 🔗 LinkedIn: https://linkedin.com/in/your-profile
+- 📧 Email: yourname@gmail.com
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmsakif&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmsakif&layout=compact&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=ahmsakif&theme=tokyonight" />
+</p>
