@@ -34,9 +34,7 @@ Always eager to learn and improve my skills.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmsakif&theme=tokyonight" alt="Productive Time" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmsakif&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</p>
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmsakif&theme=tokyonight&hide_border=true)
 
 ## 🛠️ Skills
 
